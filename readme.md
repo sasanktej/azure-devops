@@ -14,7 +14,7 @@ Run com.in28minutes.microservices.currencyconversionservice.CurrencyConversionSe
   "conversionMultiple": 65.00,
   "environmentInfo": "NA"
 }
-```
+```  
 
 ## H2 Console
 
